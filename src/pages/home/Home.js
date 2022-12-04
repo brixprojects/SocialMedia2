@@ -8,8 +8,15 @@ const Home = () => {
   return (
  <div className="Home">
      <ProfileSide />
+     
+    
+     
      <PostSide />
+     
+   
+  
      <RightSide />
+
 
  </div>
   )
